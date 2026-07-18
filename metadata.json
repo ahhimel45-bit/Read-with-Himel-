@@ -1,0 +1,6 @@
+{
+  "name": "Read with Himel",
+  "description": "An offline-first ebook reader app with personalized reading settings, book library, bookmarks, notes, and custom highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
